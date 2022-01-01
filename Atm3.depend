@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1640424646 source:c:\users\elfares center net\desktop\new folder (3)\dtu\c++\new folder\atm3\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+
+1640902233 source:c:\users\elfares center net\desktop\atm3\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+
